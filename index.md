@@ -11,6 +11,22 @@ Sunday, January 9, 2021<br/>
 301 Cortland Ave, SF<br/>
 1-3pm
 
+
+## About the 3M Aura 9205+ N95 Respirator
+
+- [3M product page](https://www.3m.com/3M/en_US/p/d/b00051022/)
+- How to wear
+    - [English instructions, one page](https://multimedia.3m.com/mws/media/827914O/3m-wear-it-right-aura-particulate-resp-english-poster.pdf)
+    - [Multilingual instructions](https://multimedia.3m.com/mws/media/855640O/9205-9210-and-9211-particulate-respirator-user-instructions.pdf)
+
+## Why we chose the 3M Aura 9205+ for this project
+
+- High-quality NIOSH-certified N95
+- Easier to wear than other N95 masks
+- Individually wrapped
+- Available in bulk through trusted supply chain
+- Hospitals use a different version of the 3M Aura mask, so bulk purchases do not compete with hospital supply
+
 ----
 
 Contact me [via twitter](https://twitter.com/rajbot)
