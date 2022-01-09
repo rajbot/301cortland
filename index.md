@@ -19,7 +19,7 @@ Sunday, January 9, 2021<br/>
     - [English instructions, one page](https://multimedia.3m.com/mws/media/827914O/3m-wear-it-right-aura-particulate-resp-english-poster.pdf)
     - [Multilingual instructions](https://multimedia.3m.com/mws/media/855640O/9205-9210-and-9211-particulate-respirator-user-instructions.pdf)
 
-## Why we chose the 3M Aura 9205+ for this project
+## Why the 3M Aura 9205?
 
 - High-quality NIOSH-certified N95
 - Easier to wear than other N95 masks
