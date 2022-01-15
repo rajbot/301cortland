@@ -7,9 +7,9 @@ We buy in bulk and can turn $1 into 1 mask. If you can, please chip in for our n
   
 ## Next mask pickup:
 
-Sunday, January 9, 2021<br/>
+Sunday, January 16, 2021<br/>
 301 Cortland Ave, SF<br/>
-1-3pm
+11am-12 noon
 
 
 ## About the 3M Aura 9205+ N95 Respirator
