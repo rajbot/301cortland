@@ -9,7 +9,7 @@ We buy in bulk and can turn $1 into 1 mask. If you can, please chip in for our n
 
 Sunday, January 30, 2021<br/>
 301 Cortland Ave, SF<br/>
-10a - 11am
+10am - 11am
 
 
 ## About the 3M Aura 9205+ N95 Respirator
